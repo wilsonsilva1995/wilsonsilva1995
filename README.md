@@ -17,7 +17,7 @@
   <img src="https://streak-stats.demolab.com?user=wilsonsilva1995&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
 </div>
 
-###
+##
 
  <h1 align="center">Tecnologias que uso no meu dia </h1>
 
@@ -35,9 +35,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-<br>
 
-</br>
+<br>
+##
+
+
 
 
 <picture>
@@ -46,4 +48,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wilsonsilva1995/wilsonsilva1995/output/pacman-contribution-graph.svg">
 </picture>
 
-
+##
