@@ -19,7 +19,7 @@
 
 ##
  
- <h1 align="center"> Tecnologias que uso no meu dia </h1>
+<h3 align="center">Tecnologias que uso no meu dia</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
