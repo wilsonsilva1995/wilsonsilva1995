@@ -4,7 +4,12 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wilsonsilva1995/)
 
-![Wilson GitHub stats](https://github-readme-stats.vercel.app/api?username=wilsonsilva1995&show_icons=true&theme=tokyonight)
+## Estatísticas do Github
+
+<p align="justify">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wilsonsilva1995&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonsilva1995&layout=compact&theme=tokyonight"/>
+</p>
 
 ## Tecnologias que uso no meu dia
 <img 
@@ -50,8 +55,8 @@
 />
 <img 
     align="left" 
-    alt="node"
-    title="node" 
+    alt="Node"
+    title="Node" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
