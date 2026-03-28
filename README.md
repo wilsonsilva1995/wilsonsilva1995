@@ -39,9 +39,6 @@
 
 </br>
 
-<h1 align="center"> Acredito que as melhores soluções nascem da integração entre diferentes áreas do conhecimento.</h1>
-</br>
-</br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wilsonsilva1995/wilsonsilva1995/output/pacman-contribution-graph-dark.svg">
