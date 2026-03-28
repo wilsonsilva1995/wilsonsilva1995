@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Wilson Silva 👋</h1>
+<h1 align="center">Olá! Eu sou Wilson Silva 👋</h1>
 
 <div align="center">
   <a href="https://www.instagram.com/wilsonsilva1995/" target="_blank">
