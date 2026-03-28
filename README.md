@@ -18,8 +18,8 @@
 </div>
 
 ##
-
- <h1 align="center">Tecnologias que uso no meu dia </h1>
+ 
+ <h1 align="center"> Tecnologias que uso no meu dia </h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -37,10 +37,8 @@
 
 
 <br>
-
-
-
-
+ 
+ ##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wilsonsilva1995/wilsonsilva1995/output/pacman-contribution-graph-dark.svg">
