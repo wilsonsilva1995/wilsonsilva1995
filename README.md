@@ -1,10 +1,11 @@
-
-
-### <h1 align="center">Olá! Eu sou o Wilson Silva👋🏻</h1>
+<h1 align="center">Olá! Eu sou o Wilson Silva 👋</h1>
 
 <div align="center">
   <a href="https://www.instagram.com/wilsonsilva1995/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/wilson-silva-18091995ofc/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 
@@ -13,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=wilsonsilva1995&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=wilsonsilva1995&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
 </div>
 
 ###
@@ -47,3 +48,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wilsonsilva1995/wilsonsilva1995/output/pacman-contribution-graph-dark.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wilsonsilva1995/wilsonsilva1995/output/pacman-contribution-graph.svg">
 </picture>
+
+
