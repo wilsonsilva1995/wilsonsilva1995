@@ -2,12 +2,23 @@
 
 ### <h1 align="center">Olá! Eu sou o Wilson Silva👋🏻</h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wilsonsilva1995/)
+<div align="center">
+  <a href="https://www.instagram.com/wilsonsilva1995/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+</div>
 
-## 
-![Wilson GitHub stats](https://github-readme-stats.vercel.app/api?username=wilsonsilva1995&show_icons=true&theme=tokyonight)
+##
 
-## <h1 align="center">Tecnologias que uso no meu dia </h1>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=wilsonsilva1995&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+ <h1 align="center">Tecnologias que uso no meu dia </h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -26,9 +37,9 @@
 <br>
 
 </br>
-Acredito que as melhores soluções nascem da integração entre diferentes áreas do conhecimento.
+
+<h1 align="center"> Acredito que as melhores soluções nascem da integração entre diferentes áreas do conhecimento.</h1>
 </br>
-<br>
 </br>
 
 <picture>
