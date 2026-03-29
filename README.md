@@ -54,10 +54,8 @@
 
 ## 🚀 Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> _"Programar é projetar para a incerteza sem abrir mão da qualidade.  
+> Escalabilidade não é luxo — é responsabilidade. Valor real não é promessa — é entrega."_
 
 ---
-
-
 
