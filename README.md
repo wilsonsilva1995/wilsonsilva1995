@@ -52,7 +52,7 @@
 
 ---
 
-## 🚀 Philosophy
+## 🦉 Filosofia
 
 > _"Programar é projetar para a incerteza sem abrir mão da qualidade.  
 > Escalabilidade não é luxo — é responsabilidade. Valor real não é promessa — é entrega."_
