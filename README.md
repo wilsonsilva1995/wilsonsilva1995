@@ -1,5 +1,7 @@
-<h1 align="center">Olá 👋, Eu sou Wilson Silva</h1>
-<p align="center">
+
+ 
+  <h1>Olá 👋, Eu sou Wilson Silva</h1>
+<p>
   <strong>Desenvolvedor | Técnico em Eletrotécnica | Apaixonado por Tecnologia</strong>
 </p>
 
