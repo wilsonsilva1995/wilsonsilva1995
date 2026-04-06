@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou Wilson Silva</h1>
 <p align="center">
-  <strong>Desenvolvedor | Técnico em Eletrônica | Apaixonado por Tecnologia</strong>
+  <strong>Desenvolvedor | Técnico em Eletrotécnica | Apaixonado por Tecnologia</strong>
 </p>
 
 ---
@@ -105,5 +105,4 @@ Projetos de Sistemas de TI • Design Thinking para Educadores
 > Escalabilidade não é luxo — é responsabilidade. Valor real não é promessa — é entrega."_
 
 ---
-
 
