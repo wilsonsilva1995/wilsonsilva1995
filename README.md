@@ -66,8 +66,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wilsonsilva1995/wilsonsilva1995/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wilsonsilva1995/wilsonsilva1995/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wilsonsilva1995/wilsonsilva1995/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wilsonsilva1995/wilsonsilva1995/output/pacman-contribution-graph-dark.svg">
 </picture>
 
 ---
@@ -78,3 +77,4 @@
 > Escalabilidade não é luxo — é responsabilidade. Valor real não é promessa — é entrega."_
 
 ---
+
