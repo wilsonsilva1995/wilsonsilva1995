@@ -47,13 +47,14 @@
 
 ---
 
-## 📈 Sobre mim
 
-- 🌱 Atualmente aprendendo **Desenvolvimento Web e Análise de Dados**
-- 💼 Buscando oportunidades na área de **Tecnologia e Inovação**
-- 🚗 Categoria CNH: A/B
-- 🎯 Objetivo: Unir conhecimentos técnicos em eletrônica com desenvolvimento de software
-- ⚡ Fato curto: Sou fascinado por automação e soluções tecnológicas criativas
+## 👨🏻‍💻 Sobre mim
+
+- 🎓 Atualmente estudando **Desenvolvimento Web** e **Análise de Dados**
+- 💼 Em busca de oportunidades na área de Tecnologia
+- 🚗 CNH categoria A/B
+- 🎯 Objetivo: Integrar conhecimentos em eletrônica ao desenvolvimento de software para criar soluções completas e inteligentes
+- ⚡ Curiosidade: Sou fascinado por automação e por tecnologias criativas que resolvem problemas do dia a dia
 
 ---
 
