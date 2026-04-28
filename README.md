@@ -1,6 +1,4 @@
-
- 
-  <h1>Olá 👋, Eu sou Wilson Silva</h1>
+<h1>Olá 👋, Eu sou Wilson Silva</h1>
 <p>
   <strong>Desenvolvedor Front-End | Técnico em Eletrotécnica </strong>
 </p>
@@ -49,34 +47,6 @@
 
 ---
 
-## 📚 Cursos Profissionalizantes
-
-<strong>📋 Administração</strong>
-Assistente Administrativo
-
-<strong>🔧 Eletrônica</strong>
-Técnico em Eletrônica • Técnicas de Soldagem • Fonte Chaveada
-
-<strong>🏠 Elétrica</strong>
-Instalações Elétricas de Baixa Tensão • Elétrica Predial e Residencial
-
-<strong>📱 Manutenção</strong>
-Manutenção de Eletrodomésticos • Técnico em Manutenção de Celulares
-
-<strong>💻 Informática</strong>
-Operador de Microsoft Office • Excel Avançado • Automação de Sistemas
-
-<strong>📊 Dados & IA</strong>
-Power BI + IA • Microsoft Power BI para Business Intelligence e Data Science
-
-<strong>🏛️ Gestão Pública</strong>
-Gestão de Crises no Setor Público • Finanças Públicas e Estatísticas Fiscais
-
-<strong>🖥️ TI & Projetos</strong>
-Projetos de Sistemas de TI • Design Thinking para Educadores
-
----
-
 ## 📈 Sobre mim
 
 - 🌱 Atualmente aprendendo **Desenvolvimento Web e Análise de Dados**
@@ -98,8 +68,6 @@ Projetos de Sistemas de TI • Design Thinking para Educadores
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wilsonsilva1995/wilsonsilva1995/output/pacman-contribution-graph-dark.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wilsonsilva1995/wilsonsilva1995/output/pacman-contribution-graph.svg">
 </picture>
-
-
 
 ---
 
