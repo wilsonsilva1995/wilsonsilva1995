@@ -17,13 +17,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilsonsilva1995&locale=pt_BR&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
-</div>
-
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
