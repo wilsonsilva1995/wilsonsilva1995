@@ -1,6 +1,6 @@
 <h1>Olá 👋, Eu sou Wilson Silva</h1>
 <p>
-  <strong>Desenvolvedor Front-End | Técnico em Eletrotécnica </strong>
+  <strong>Desenvolvedor Junior | Técnico em Eletrotécnica </strong>
 </p>
 
 ---
