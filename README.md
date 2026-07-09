@@ -1,6 +1,6 @@
 <h1>Olá 👋, Eu sou Wilson Silva</h1>
 <p>
-  <strong>Desenvolvedor Junior | Técnico em Eletrotécnica </strong>
+  <strong>Engenheiro de Software | Graduando em Análise e Desenvolvimento de Sistemas | Técnico em Eletrotécnica e Eletrônica. </strong>
 </p>
 
 ---
@@ -9,9 +9,9 @@
 
 <div align="center">
  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wilsonsilva1995/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-silva-18091995ofc/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilsonavengers595@gmail.com)
+
 
 </div>
 
