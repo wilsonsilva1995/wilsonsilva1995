@@ -56,11 +56,18 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-- 🎓 Atualmente estudando **Desenvolvimento Web** e **Análise de Dados**
-- 💼 Em busca de oportunidades na área de Tecnologia
-- 🚗 CNH categoria A/B
-- 🎯 Objetivo: Integrar conhecimentos em eletrônica ao desenvolvimento de software para criar soluções completas e inteligentes
-- ⚡ Curiosidade: Sou fascinado por automação e por tecnologias criativas que resolvem problemas do dia a dia
+- Graduando em Análise e Desenvolvimento de Sistemas.
+- Formação Técnica em Eletrotécnica e Eletrônica.
+
+---
+
+### 🌟 Soft Skills
+
+- Comunicação clara e objetiva
+- Pensamento sistêmico e visão estratégica
+- Resiliência e equilíbrio em situações de pressão
+- Colaboração ativa e compartilhamento de conhecimento
+- Inteligência emocional e foco em resultados
 
 ---
 
