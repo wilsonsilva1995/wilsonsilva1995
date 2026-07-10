@@ -1,6 +1,6 @@
 <h1>Olá 👋, Eu sou Wilson Silva</h1>
 <p>
-  <strong>Engenheiro de Software Full-Stack | Automação de Processos e Integração de Sistemas </strong>
+  <strong>Desenvolvedor Full Stack | Automação de Processos e Integração de Sistemas </strong>
 </p>
 
 ---
