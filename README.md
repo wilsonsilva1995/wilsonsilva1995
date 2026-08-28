@@ -1,6 +1,6 @@
 <h1>Olá 👋, Eu sou Wilson Silva</h1>
 <p>
-  <strong>Analista de TI | Python | Javascript | Automação de Processos e Integração de Sistemas </strong>
+  <strong>Analista de TI | Suporte de TI </strong>
 </p>
 
 ---
