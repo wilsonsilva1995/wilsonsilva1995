@@ -1,6 +1,6 @@
 <h1>Olá 👋, Eu sou Wilson Silva</h1>
 <p>
-  <strong>Analista de TI | Suporte de TI </strong>
+  <strong>Analista de TI | Suporte Técnico • React/Node • Python | Automação de Processos e Integração de Sistemas</strong>
 </p>
 
 ---
