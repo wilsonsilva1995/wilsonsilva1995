@@ -1,6 +1,6 @@
 <h1>Olá 👋, Eu sou Wilson Silva</h1>
 <p>
-  <strong>Analista de TI & Suporte Técnico | React · Node · Python | Téc. Eletrotécnica | Automação e Integração de Sistemas</strong>
+  <strong>Suporte Técnico N1 | Help Desk · ITIL v4 | Desenvolvimento Web: React · Node · Python | Automação com n8n | Técnico em Eletrotécnica</strong>
 </p>
 
 ---
