@@ -1,6 +1,6 @@
 <h1>Olá 👋, Eu sou Wilson Silva</h1>
 <p>
-  <strong>Anista de TI| ITIL v4 | Desenvolvimento Web: React · Node · Python | Automação com n8n | Técnico em Eletrotécnica</strong>
+  <strong>Analista de TI | ITIL v4 | Desenvolvimento Web: React · Node · Python | Automação com n8n | Técnico em Eletrotécnica</strong>
 </p>
 
 ---
